@@ -8,6 +8,9 @@ import com.vaannila.service.UserService;
 
 @SuppressWarnings("deprecation")
 public class UserController extends SimpleFormController {
+	
+	
+	/* Sample commit for changes*/
 
 	private UserService userService;
 
